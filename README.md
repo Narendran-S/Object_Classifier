@@ -26,6 +26,11 @@ The SSD architecture is a single convolution network that learns to predict boun
 
 
 # ReLu.
+
+![image](https://user-images.githubusercontent.com/67863890/100054499-277da200-2e48-11eb-9bf7-9eb45c68d37d.png)
+
+
+
 The Rectified Linear Unit is the most commonly used activation function in deep learning models. 
 
 The function returns 0 if it receives any negative input, but for any positive value  x  it returns that value back. So it can be written as  f(x)=max(0,x) .
