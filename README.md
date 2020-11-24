@@ -3,10 +3,10 @@ Object recognition is a computer vision technique for identifying objects in ima
 
 ## Deep Neural Network - DNN.
 Solve Complex Task
-When it gets new information in the system, it learns how to act accordingly to a new situation.
+When it gets new information in the system, it learns how to act accordingly to a new situation.  
 Learning becomes deeper when tasks you solve get harder. 
 Helps to load pre-trained Model from DL frameworks such as
-
+![image](https://user-images.githubusercontent.com/67863890/100054411-fb622100-2e47-11eb-95f8-eb97a91216cb.png)
 
 -Tensorflow
 -Caffe
